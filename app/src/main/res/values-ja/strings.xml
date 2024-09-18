@@ -171,7 +171,7 @@
     <string name="settings_disable_verbose_log">詳細ログの無効化</string>
     <string name="settings_disable_verbose_log_summary">レポートに冗長ログを含めるように要求する</string>
     <string name="settings_force_enable_log">WatchDog ログを有効化する</string>
-    <string name="settings_force_enable_log_summary">LSPosed で watchdog ログを有効化すると一部のアプリはそれを検出して閉じます。</string>
+    <string name="settings_force_enable_log_summary">LSPosed で WatchDog ログを有効化すると一部のアプリはそれを検出して閉じます</string>
     <string name="pure_black_dark_theme">ブラックダークテーマ</string>
     <string name="pure_black_dark_theme_summary">ダークテーマ有効時にピュアブラックのテーマを使用</string>
     <string name="settings_group_theme">テーマ</string>
@@ -208,7 +208,7 @@
     <string name="settings_xposed_api_call_protection">Xposed APIの呼び出し保護</string>
     <string name="settings_xposed_api_call_protection_summary">Xposed APIを使用するために動的にロードされたモジュールコードをブロックします。これにより、一部のモジュールが壊れる可能性がありますが、セキュリティにメリットがあります</string>
     <string name="pref_title_restrict_classloader">モジュールクラスローダーのみが Xposed API を使用できます</string>
-    <string name="pref_summary_restrict_classloader">一部のモジュールの動作に影響が発生する可能性がありますが、セキュリティが向上します (試験的な機能)</string>
+    <string name="pref_summary_restrict_classloader">一部のモジュールの動作に問題が発生する可能性がありますが、セキュリティが向上します (試験的な機能)</string>
     <string name="settings_group_cli">CLI</string>
     <string name="pref_title_enable_cli">CLI を有効化する</string>
     <string name="pref_summary_enable_cli">(試験的な機能)</string>
